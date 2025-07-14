@@ -14,10 +14,4 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,firebase,mysql,git,github,vscode,linux" />
 </p>
 
----
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxiAramayo&show_icons=true&theme=radical" alt="MaxiAramayo" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiAramayo&theme=radical" alt="MaxiAramayo" />
-</p>
