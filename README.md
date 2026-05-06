@@ -4,7 +4,7 @@
 
 <br/>
 
-**Fullstack Developer · Analista de Sistemas · AI First**  
+**Fullstack Developer · Ingeniero en informatica**  
 3 productos en producción · +10 clientes reales · CABA, Argentina
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximiliano-aramayo-lazo)
